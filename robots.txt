@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-r0py3p.juragan89.xyz/sitemap.xml
